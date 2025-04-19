@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **baljendersinghbamrah@gmail.com**
 
-- 📄 Resume [Click_Me](https://baljenderresume.tiiny.site/)
+- 📄 Resume [Click_Me](https://drive.google.com/file/d/1WWpggo58w-fllKLe7MgWYfpeu3KTHSyC/view?usp=sharing)
 
 - ⚡ Fun fact **My code runs faster when I stare at it intensely.**
 
