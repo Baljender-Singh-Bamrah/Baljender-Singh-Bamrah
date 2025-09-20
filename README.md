@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/bunnybravo9" target="blank"><img src="https://img.shields.io/twitter/follow/bunnybravo9?logo=twitter&style=for-the-badge" alt="bunnybravo9" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Love discussing about **DSA, CP and Web Dev**
 
